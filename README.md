@@ -1,7 +1,5 @@
 # Welcome to DevSquad Vietnam Community
 
-![DevSquad Vietnam Logo](https://dangjinner.com/_next/image?url=https%3A%2F%2Fserver.dangjinner.com%2Fmedia%2Fstorage%2Fd0b51e72-748c-4c49-b65d-b1ccbdc3f7ee.png&w=1920&q=75)
-
 Welcome to the official GitHub repository of DevSquad Vietnam, the premier real-world programming community in Vietnam!
 
 ## About DevSquad Vietnam
