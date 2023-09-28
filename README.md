@@ -49,5 +49,3 @@ We welcome developers of all levels, from beginners to seasoned professionals. H
 - Founder and CEO: Dang Jinner
 
 Come join us on this exciting journey of learning, collaboration, and innovation. Let's build the future of tech together!
-
-![DevSquad Vietnam Community](https://dangjinner.com/_next/image?url=https%3A%2F%2Fserver.dangjinner.com%2Fmedia%2Fstorage%2Fd0b51e72-748c-4c49-b65d-b1ccbdc3f7ee.png&w=1920&q=75)
