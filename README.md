@@ -1,6 +1,6 @@
 # Welcome to DevSquad Vietnam Community
 
-![DevSquad Vietnam Logo](https://example.com/devsquad-logo.png)
+![DevSquad Vietnam Logo](https://dangjinner.com/_next/image?url=https%3A%2F%2Fserver.dangjinner.com%2Fmedia%2Fstorage%2Fd0b51e72-748c-4c49-b65d-b1ccbdc3f7ee.png&w=1920&q=75)
 
 Welcome to the official GitHub repository of DevSquad Vietnam, the premier real-world programming community in Vietnam!
 
@@ -42,10 +42,12 @@ We welcome developers of all levels, from beginners to seasoned professionals. H
 
 ## Contact Us
 
-- Website: [https://www.devsquad.vn](https://www.devsquad.vn)
-- GitHub: [https://github.com/DevSquad-Vietnam](https://github.com/DevSquadVietnam)
-- Email: contact@devsquad.vn
+- Facebook Group: [DevSquad Vietnam Facebook Group](https://www.facebook.com/groups/devsquadvietnam)
+- Facebook Fanpage: [DevSquad Vietnam Fanpage](https://www.facebook.com/devsquadvietnam)
+- Email: [devsquadvietnam@gmail.com](mailto:devsquadvietnam@gmail.com)
+- Website: [DevSquad Vietnam Website](https://devsquad.com.vn)
+- Founder and CEO: Dang Jinner
 
 Come join us on this exciting journey of learning, collaboration, and innovation. Let's build the future of tech together!
 
-![DevSquad Vietnam Community](https://example.com/devsquad-community.jpg)
+![DevSquad Vietnam Community](https://dangjinner.com/_next/image?url=https%3A%2F%2Fserver.dangjinner.com%2Fmedia%2Fstorage%2Fd0b51e72-748c-4c49-b65d-b1ccbdc3f7ee.png&w=1920&q=75)
