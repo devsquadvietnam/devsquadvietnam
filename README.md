@@ -40,10 +40,10 @@ We welcome developers of all levels, from beginners to seasoned professionals. H
 
 ## Contact Us
 
-- Facebook Group: [DevSquad Vietnam Facebook Group](https://www.facebook.com/groups/devsquadvietnam)
-- Facebook Fanpage: [DevSquad Vietnam Fanpage](https://www.facebook.com/devsquadvietnam)
+- Facebook Group: https://www.facebook.com/groups/devsquadvietnam
+- Facebook Fanpage: https://www.facebook.com/devsquadvietnam
 - Email: [devsquadvietnam@gmail.com](mailto:devsquadvietnam@gmail.com)
-- Website: [DevSquad Vietnam Website](https://devsquad.com.vn)
+- Website: https://devsquad.com.vn
 - Founder and CEO: Dang Jinner
 
 Come join us on this exciting journey of learning, collaboration, and innovation. Let's build the future of tech together!
